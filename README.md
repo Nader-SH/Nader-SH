@@ -42,3 +42,4 @@
 ![api's](https://img.shields.io/badge/-apis-3A3A3A?style=for-the-badge&logo=connect&logoColor=white)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-mysql-316192?style=for-the-badge&logo=mysql&logoColor=white" />
