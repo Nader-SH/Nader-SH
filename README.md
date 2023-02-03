@@ -43,3 +43,6 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-mysql-316192?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-sequelize-404D59?style=for-the-badge&logo=sequelize&logoColor=white" />
+<img src="https://img.shields.io/badge/-AntDesign-61DAFB?style=for-the-badge&logo=AntDesign&logoColor=white" />
+<img src="https://img.shields.io/badge/-mui-white?style=for-the-badge&logo=mui&logoColor=404D59" />
